@@ -1,0 +1,14 @@
+D:\Studying\others\ResolutionChanger\ResolutionChanger\obj\Debug\MainWindow.g.cs
+D:\Studying\others\ResolutionChanger\ResolutionChanger\obj\Debug\App.g.cs
+D:\Studying\others\ResolutionChanger\ResolutionChanger\obj\Debug\ResolutionChanger_MarkupCompile.cache
+D:\Studying\others\ResolutionChanger\ResolutionChanger\obj\Debug\ResolutionChanger_MarkupCompile.lref
+D:\Studying\others\ResolutionChanger\ResolutionChanger\bin\Debug\ResolutionChanger.exe.config
+D:\Studying\others\ResolutionChanger\ResolutionChanger\bin\Debug\ResolutionChanger.exe
+D:\Studying\others\ResolutionChanger\ResolutionChanger\bin\Debug\ResolutionChanger.pdb
+D:\Studying\others\ResolutionChanger\ResolutionChanger\obj\Debug\MainWindow.baml
+D:\Studying\others\ResolutionChanger\ResolutionChanger\obj\Debug\ResolutionChanger.g.resources
+D:\Studying\others\ResolutionChanger\ResolutionChanger\obj\Debug\ResolutionChanger.Properties.Resources.resources
+D:\Studying\others\ResolutionChanger\ResolutionChanger\obj\Debug\ResolutionChanger.csproj.GenerateResource.cache
+D:\Studying\others\ResolutionChanger\ResolutionChanger\obj\Debug\ResolutionChanger.csproj.CoreCompileInputs.cache
+D:\Studying\others\ResolutionChanger\ResolutionChanger\obj\Debug\ResolutionChanger.exe
+D:\Studying\others\ResolutionChanger\ResolutionChanger\obj\Debug\ResolutionChanger.pdb
